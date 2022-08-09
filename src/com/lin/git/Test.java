@@ -5,5 +5,6 @@ public class Test {
         System.out.println("master_test01");
         System.out.println("hot_fix_test01");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
